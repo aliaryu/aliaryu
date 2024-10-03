@@ -1,5 +1,5 @@
 # Hiii, I'm Ali Havasi <img src="https://s8.uupload.ir/files/aryuknight_vacd.gif" alt="stars" align="right" />
-I am a programmer and web developer. I am interested in working in dynamic teams and on projects that provide me with the opportunity to learn and grow professionally. I have the ability to work under high pressure and manage my time effectively, and I believe that challenges are the best opportunities for learning and growth.
+I am a programmer and back-end developer with python/django framework. Programming is an opportunity for me to use my creativity and skills to build practical and useful projects. I have always been eager to learn new skills and keep my knowledge up-to-date in various fields. I am interested in working in dynamic teams and on projects that provide opportunities for learning and professional growth. I possess time management skills and can work effectively in high-pressure situations. I believe that challenges are the best opportunities for learning and advancement.
 
 ## Skills
 [![python](https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=blue)](https://www.python.org)
