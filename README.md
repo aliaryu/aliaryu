@@ -13,11 +13,12 @@ I am a programmer and back-end developer with python/django framework. Programmi
 [![redis](https://img.shields.io/badge/redis-white?style=flat&logo=redis)](https://redis.io/)
 [![mongodb](https://img.shields.io/badge/mongodb-white?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![sqlite](https://img.shields.io/badge/sqlite-white?style=flat&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
-[![celery](https://img.shields.io/badge/celery-white?style=flat&logo=celery&logoColor=green)](https://docs.celeryq.dev/en/stable/)
-[![git](https://img.shields.io/badge/rabbitmq-white?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
+[![celery](https://img.shields.io/badge/celery-white?style=flat&logo=celery&logoColor=37814A)](https://docs.celeryq.dev/en/stable/)
+[![rabbitmq](https://img.shields.io/badge/rabbitmq-white?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
 [![git](https://img.shields.io/badge/git-white?style=flat&logo=git)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/github-white?style=flat&logo=github&logoColor=181717)](https://github.com/)
 [![docker](https://img.shields.io/badge/docker-white?style=flat&logo=docker)](https://www.docker.com/)
+[![nginx](https://img.shields.io/badge/nginx-white?style=flat&logo=nginx&logoColor=009639)](https://nginx.org/)
 [![linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## Contact
