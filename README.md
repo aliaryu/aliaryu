@@ -6,7 +6,7 @@ I am a programmer and back-end developer with python/django framework. Programmi
 [![django](https://img.shields.io/badge/django-white?style=flat&logo=django&logoColor=0a6535)](https://www.djangoproject.com/)
 [![django rest](https://img.shields.io/badge/;%20django%20rest-white?style=flat)](https://www.django-rest-framework.org/)
 [![html](https://img.shields.io/badge/html-white?style=flat&logo=html5)](https://html.com/)
-[![css](https://img.shields.io/badge/css-white?style=flat&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![css](https://img.shields.io/badge/css-white?style=flat&logo=css&logoColor=663399)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![bootstrap](https://img.shields.io/badge/bootstrap-white?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![javascript](https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=cbbf00)](https://www.javascript.com/)
 [![postgresql](https://img.shields.io/badge/postgresql-white?style=flat&logo=postgresql)](https://www.postgresql.org/)
