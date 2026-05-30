@@ -23,4 +23,4 @@ I am a programmer ;p
 [![linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ## Contact
-Email: <a href="mailto:aliaryu76@gmail.com">aliaryu@yahoo.com</a>
+Email: <a href="mailto:aliaryu76@gmail.com">aliaryu76@gmail.com</a>
