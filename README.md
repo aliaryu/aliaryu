@@ -20,7 +20,7 @@ I am a programmer ;p
 [![docker](https://img.shields.io/badge/docker-white?style=flat&logo=docker)](https://www.docker.com/)
 [![nginx](https://img.shields.io/badge/nginx-white?style=flat&logo=nginx&logoColor=009639)](https://nginx.org/)
 [![network+](https://img.shields.io/badge/network+-white?style=flat&logo=comptia&logoColor=red)](https://www.comptia.org/en/)
-[![linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ## Contact
 Email: <a href="mailto:aliaryu@yahoo.com">aliaryu@yahoo.com</a>
